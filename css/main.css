@@ -613,10 +613,6 @@ video {
   margin-top: 2.5rem;
 }
 
-.mb-16 {
-  margin-bottom: 4rem;
-}
-
 .mt-24 {
   margin-top: 6rem;
 }
@@ -982,16 +978,6 @@ html{
 
   .sm\:self-center {
     align-self: center;
-  }
-
-  .sm\:text-blue-500 {
-    --tw-text-opacity: 1;
-    color: rgb(59 130 246 / var(--tw-text-opacity));
-  }
-
-  .sm\:text-red-600 {
-    --tw-text-opacity: 1;
-    color: rgb(220 38 38 / var(--tw-text-opacity));
   }
 }
 
