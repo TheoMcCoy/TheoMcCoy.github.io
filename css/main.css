@@ -889,7 +889,7 @@ html {
   border-bottom: 2px solid yellow;
 }
 
-#hero {
+.hero-section {
   background-image: url(/assets/image-header.jpg);
   background-position: center;
   background-size: cover;
