@@ -13,12 +13,12 @@ html {
   border-bottom: 2px solid yellow;
 }
 
-/* #hero {
-  background-image: url(./assets/image-header.jpg);
+#hero {
+  background-image: url(/assets/image-header.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-} */
+}
 
 /* Hamburger Menu */
 .hamburger {
