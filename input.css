@@ -7,7 +7,7 @@ html {
   overflow-x: hidden;
 }
 #hero {
-  color: whitesmoke;
+  color: #000;
 }
 .menu:hover {
   border-bottom: 2px solid yellow;
