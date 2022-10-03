@@ -874,7 +874,7 @@ html {
 }
 
 .hero-section {
-  background-image: url("/assets/image-header.png");
+  background-image: url("../assets/image-header.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
