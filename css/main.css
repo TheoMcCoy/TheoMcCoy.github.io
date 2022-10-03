@@ -727,26 +727,6 @@ video {
   background-color: rgb(141 212 198 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\'\/assets\/image-header\.png\'\)\] {
-  background-image: url('/assets/image-header.png');
-}
-
-.bg-\[url\(\'\.\/assets\/image-header\.jpg\'\)\] {
-  background-image: url('./assets/image-header.jpg');
-}
-
-.bg-cover {
-  background-size: cover;
-}
-
-.bg-center {
-  background-position: center;
-}
-
-.bg-no-repeat {
-  background-repeat: no-repeat;
-}
-
 .p-6 {
   padding: 1.5rem;
 }
@@ -899,7 +879,6 @@ html {
   background-size: cover;
   background-repeat: no-repeat;
   background-color: #8dd4c6;
-  /* background: #8dd4c6 url("/assets/image-header.png") no-repeat center; */
 }
 
 /* Hamburger Menu */
