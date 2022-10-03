@@ -727,16 +727,12 @@ video {
   background-color: rgb(141 212 198 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\'\/assets\/image-header\.jpg\'\)\] {
-  background-image: url('/assets/image-header.jpg');
+.bg-\[url\(\'\/assets\/image-header\.png\'\)\] {
+  background-image: url('/assets/image-header.png');
 }
 
 .bg-\[url\(\'\.\/assets\/image-header\.jpg\'\)\] {
   background-image: url('./assets/image-header.jpg');
-}
-
-.bg-\[url\(\'\/assets\/image-header\.png\'\)\] {
-  background-image: url('/assets/image-header.png');
 }
 
 .bg-cover {
@@ -898,7 +894,7 @@ html {
 }
 
 .hero-section {
-  /* background-image: url("/assets/image-header.jpg"); */
+  background-image: url("/assets/image-header.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
