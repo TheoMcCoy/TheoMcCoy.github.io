@@ -735,6 +735,10 @@ video {
   background-image: url('./assets/image-header.jpg');
 }
 
+.bg-\[url\(\'\/assets\/image-header\.png\'\)\] {
+  background-image: url('/assets/image-header.png');
+}
+
 .bg-cover {
   background-size: cover;
 }
