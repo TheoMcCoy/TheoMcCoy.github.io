@@ -889,12 +889,13 @@ html {
   border-bottom: 2px solid yellow;
 }
 
-/* .hero-section {
-  background-image: url(./assets/image-header.jpg);
+.hero-section {
+  background-image: url("/assets/image-header.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-} */
+  background-color: #8dd4c6;
+}
 
 /* Hamburger Menu */
 
